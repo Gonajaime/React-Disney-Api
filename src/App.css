@@ -2,3 +2,11 @@
   text-align: center;
 }
 
+@font-face {
+  font-family: Walter;
+  src: url('components/Walter.ttf');
+}
+
+*{
+  font-family: Walter;
+}

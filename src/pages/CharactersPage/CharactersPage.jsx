@@ -2,6 +2,7 @@ import axios from "axios";
 import {useEffect, useState} from "react";
 import Gallery from "../../components/Gallery/Gallery";
 import Paginator from "../../components/Paginator/Paginator";
+import './CharactersPage.scss'
 
 
 

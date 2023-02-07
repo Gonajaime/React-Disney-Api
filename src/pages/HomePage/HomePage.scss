@@ -1,0 +1,17 @@
+h1{
+    font-size: 9.3rem;
+    display: flex;
+    justify-content: center;
+}
+
+.texto{
+    color: rgba(0, 0, 0, 0);
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-image: url('../../../public/walt-disney-pictures.jpg');
+    background-size: cover;
+    background-position-y: center;
+    background-clip: text;
+}

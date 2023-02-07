@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom';
 import Gallery from '../../components/Gallery/Gallery';
 import axios from 'axios';
+import './CharactersPageDetails.scss'
 
 const CharactersPageDetail = () => {
 
